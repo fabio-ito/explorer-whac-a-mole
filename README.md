@@ -11,7 +11,7 @@
     <li>Criação de Keyframes;</li>
     <li>Utilização do display em Grid;</li>
     <li>Utilização da tag animation;</li>
-</ul>
+</ul> 
   
 <h4>Autor</h4>
 
